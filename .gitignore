@@ -4,7 +4,7 @@ node_modules/
 z*
 
 # ignore specific '.env' file
-'.env'
+.env
 
 # ignores top-level directory 'artifacts'
 /artifacts/
